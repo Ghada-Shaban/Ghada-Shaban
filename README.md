@@ -6,6 +6,7 @@
     Let's unlock the value in your data.
   </blockquote>
 </p>
+---
 
 ## Skills
 
@@ -19,10 +20,17 @@
 </p>
 
 ---
+## Connect with me! 📫
 
-Connect with me on 
+<p align="center">
+  <a href="[https://www.linkedin.com/in/ghada-shaban-017649255]">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  
+  <a href="mailto:ghadaashaban2003@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ghada-shaban-017649255)](https://www.linkedin.com/in/ghada-shaban-017649255)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mail@ghadaashaban2003@gmail.com)](mailto:mail@ghadaashaban2003@gmail.com)
 
 
