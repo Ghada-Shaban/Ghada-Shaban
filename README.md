@@ -1,17 +1,15 @@
 ![Header](./github-header-banner.png)
 
+Connect with me on LinkedIn.
 
-<!--
-**Ghada-Shaban/Ghada-Shaban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ghada-shaban-017649255)](https://www.linkedin.com/in/ghada-shaban-017649255)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mail@ghadaashaban2003@gmail.com)](mailto:mail@ghadaashaban2003@gmail.com)
 
-Here are some ideas to get you started:
+## ⚡ Skills:
+- SQL (SQL Server)
+- Excel
+- Power Query
+- Power BI
+- Data Modeling
+- DAX
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
