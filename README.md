@@ -6,6 +6,7 @@
     Let's unlock the value in your data.
   </blockquote>
 </p>
+
 ---
 
 ## Skills
