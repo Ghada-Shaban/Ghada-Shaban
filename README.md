@@ -1,6 +1,12 @@
 ![Header](./github-header-banner.png)
 
-I help businesses make smarter decisions through data analysis, visualization, and compelling storytelling. Let's unlock the value in your data.
+<p align="center">
+  <blockquote>
+    I help businesses make smarter decisions through data analysis, visualization, and compelling storytelling.<br>
+    Let's unlock the value in your data.
+  </blockquote>
+</p>
+
 ## Skills
 
 <p align="center">
