@@ -1,4 +1,4 @@
-## Hi there 👋
+![Ghada's Banner](https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=250&section=header&text=Hi,%20I%20am%20Ghada&fontSize=70&animation=fadeIn&fontAlignY=35)
 
 <!--
 **Ghada-Shaban/Ghada-Shaban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
