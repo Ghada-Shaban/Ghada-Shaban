@@ -24,6 +24,10 @@
 ## Connect with me! 📫
 
 <p align="center">
+  <a href="https://drive.google.com/uc?export=download&id=1WQUuWll0McrM4xHLL9H80dIfKhxyfqSY" download>
+  <img src="https://img.shields.io/badge/Download%20CV-%23007ACC?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Download CV" />
+</a>
+  
   <a href="[https://www.linkedin.com/in/ghada-shaban-017649255]">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
